@@ -1,0 +1,13 @@
+{
+	"league": "Kreisliga Herren",
+	"season": "2015/16",
+	"start": "2015-11-01",
+	"end": "2016-03-31",
+	"teams": [ 
+		{ "name": "Hachinger Kickers" },
+		{ "name": "FC Miesbach"},
+		{ "name": "Jahn München" },
+		{ "name": "Weißblau Riem" },
+		{ "name": "SG Moosfeld" }
+	]
+}

@@ -1,0 +1,8 @@
+There are two packages in this project
+the first one includes the logic of the Spielplanner 
+and the second one includes GUI designs
+
+The program can be runned and testes by running the corresponding jar file in the dist directory.
+as a sample there is .json file for input.
+there is a sample output of the program as mannschaftn.txt  
+The best recommended IDE to open this project is NetBeans. 
